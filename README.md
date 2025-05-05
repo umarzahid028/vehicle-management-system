@@ -76,5 +76,3 @@ Create a simple, effective web-based system to manage vehicle reconditioning fro
     -   Open vehicles per stage
 -   Basic exports or dashboards acceptable.
 -   Full history/log retained per vehicle.
-
-http://github.com/umarzahid028/trevinosauto/blob/033ea38c349696fa2a2a957b49122d7d3e2f83f4/routes/web.php
